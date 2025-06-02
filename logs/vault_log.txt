@@ -33,3 +33,7 @@ Ralw - Login - 2025-06-02 13:19:25.021691
 Ralw - Encrypting file - '30_11_2024-02_15_19TFT.png' - 2025-06-02 13:19:59.635480 
 Ralw - File '30_11_2024-02_15_19TFT.png' encrypted - 2025-06-02 13:19:59.687519 
 Hello - Login - 2025-06-02 20:15:49.509720 
+Hello - Encrypting file - 'Screenshot 2025-06-02 185501.png' - 2025-06-02 20:30:46.247399 
+Hello - File 'Screenshot 2025-06-02 185501.png' encrypted - 2025-06-02 20:30:47.979360 
+Hello - Batch Encrypting 'Hello_batch_20250602-203152' - 2025-06-02 20:31:52.886998 
+Hello - Folder 'Hello_batch_20250602-203152' encrypted - 2025-06-02 20:31:52.890736 

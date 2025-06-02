@@ -1,7 +1,16 @@
 [
     {
         "username": "Hello",
-        "files": []
+        "files": [
+            {
+                "file_name": "Screenshot 2025-06-02 185501.png",
+                "encryption_key": "7ViqcgGSJFTYtN1m3j2Kis8zia5jywZlAwHytHDdj9k="
+            },
+            {
+                "file_name": "Hello_batch_20250602-203152.zip.encrypted",
+                "encryption_key": "Cc4dR2ODtx7mC4ujwc3BPwRkOqHPMbALm1ugpwCVSIE="
+            }
+        ]
     },
     {
         "username": "World",
